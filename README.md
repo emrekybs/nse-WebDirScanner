@@ -1,5 +1,5 @@
 # nse-dirscan
---This Nmap script performs a comprehensive directory scan on a specified web server, checking for the presence of common directories and their HTTP status codes.
+This Nmap script performs a comprehensive directory scan on a specified web server, checking for the presence of common directories and their HTTP status codes.
 
 <img src="https://github.com/emrekybs/nse-dirscan/blob/main/dirscan.png">
 
