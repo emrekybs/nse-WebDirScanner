@@ -16,7 +16,14 @@ action = function(host, port)
         "/admin", "/login", "/test", "/backup",
         "/.git", "/.env", "/.htaccess", "/.htpasswd", "/.DS_Store",
         "/.svn", "/.well-known", "/robots.txt", "/sitemap.xml",
-        "/backup", "/log", "/tmp"
+        "/backup", "/log", "/tmp", "/config", "/database",
+        "/dev", "/old", "/new", "/api", "/assets",
+        "/bin", "/cgi-bin", "/cms", "/docs", "/downloads",
+        "/email", "/files", "/forum", "/help", "/images",
+        "/include", "/js", "/lib", "/media", "/news",
+        "/private", "/public", "/scripts", "/server", "/service",
+        "/sql", "/src", "/static", "/themes", "/upload",
+        "/user", "/vendor", "/ws", "/xml", "/temp"
     }
 
     local results = {}
